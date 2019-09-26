@@ -1,2 +1,16 @@
-# æ ¡å›­ç½‘ç™»å½•å™¨
- é€‚ç”¨äºŽä¸­å¤§å—æ–¹çš„è‡ªåŠ¨ç™»é™†å™¨ï¼ˆPCï¼‰
+×÷Æ·ÀàÐÍ:
+´¿Êô³Ô±¥ÁË³Å×ÅµÄ×÷Æ·
+ÉùÃ÷:
+Èí¼þµÄËùÓÐFunctionÀ´×ÔÓÚ»¥ÁªÍøÎÞË½·îÏ×µÄ´óÉñ£¬ÔÚ´Ë±íÊ¾¸ÐÐ»¡£
+
+BUG·´À¡:
+E-mail£º305623673@qq.com QQ£º305623673£¨Î¢ÐÅÍ¬ºÅ£©¼ÓºÃÓÑÇë±¸×¢
+
+Ê¹ÓÃËµÃ÷:
+¿ª»ú×ÔÆô²»ÏëÐ´ÁË£¬BUG²»ÏëÐÞÁË¡£
+×Ô¼º°ÑÈí¼þ¶ªµ½ÏµÍ³×ÔÆôÄ¿Â¼¼´¿É£¡
+
+×ÔÆôµØÖ·:
+C:\Users\¡°ÄãµÄÓÃ»§Ãû¡±\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Èô¾­¸öÈËÐÞ¸Äºó·¢²¼£¬Çë±ê×¢Ô­×÷Õß¡£
