@@ -1,0 +1,5 @@
+dr1569456885718({"result":0,"msga":"Oppp error: 21;User(GZLAN1433668623@16900.gd) Checking LM, (online count=1)"})   
+
+dr1569456885718({"result":0,"msga":"ldap auth error"})   
+
+dr1569456885718({"result":0,"msga":"userid error1"})   
