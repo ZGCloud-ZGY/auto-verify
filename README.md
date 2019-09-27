@@ -14,7 +14,7 @@ Visual Basic 6.0
 *:当网络环境非校园网时，软件不会启动。[自动检测DNS，非校园网DNS软件不会运行。若修改过DNS，软件将无法正常运行！]
 <p>
 支持的系统:<p>
-Windows 7
+Windows 7 [理论上支持Windows全系列]
 <p>
 BUG反馈:<p>
 E-mail：305623673@qq.com QQ：305623673（微信同号）加好友请备注
