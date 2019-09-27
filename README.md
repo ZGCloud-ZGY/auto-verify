@@ -10,6 +10,9 @@ Visual Basic6.0
 BUG反馈:
 E-mail：305623673@qq.com QQ：305623673（微信同号）加好友请备注
 
+下载地址:
+https://github.com/ZGCloud-ZGY/auto-verify/releases
+
 使用说明:
 开机自启不想写了，BUG不想修了。
 自己把软件丢到系统自启目录即可！
