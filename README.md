@@ -26,6 +26,6 @@ E-mail：305623673@qq.com QQ：305623673（微信同号）加好友请备注
 自启方法:<p>
 快捷键 Win + R<p>
 运行:  %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup<p>
-把软件拖进去即可<p>
+把软件拖进去即可!若是首次使用，拖进去要打开一次保存登录信息，第二次开机即可自动登录。<p>
 <p>
 <span style="background-color:#E53333;color:#FFE500;font-size:24px;"><strong>未经许可，严禁二改发布。转发请标注原作者。</strong></span>
