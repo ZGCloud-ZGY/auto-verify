@@ -162,7 +162,15 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
-
+'|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'|||||||||本软件由ZGCloud设计  写代码辛苦，请尊重个人劳动成果                            |||||||||
+'|||||||||邮箱305623673@qq.com 若不允许发布此类软件，请邮箱联系删除                      |||||||||
+'|||||||||若进行二改发布，源代码的声明部分禁止修改                                       |||||||||
+'|||||||||来源于互联网大佬的功能类源码标示:                                              |||||||||
+'|||||||||getHTTPPage()  ReadIniFile()   WriteIniFile()   Sleep()                        |||||||||
+'|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+'|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 'Dir([pathname], [Attributes as VbFileAttribute=vbNormal]) As String
 Private Declare Function GetPrivateProfileString Lib "kernel32" Alias "GetPrivateProfileStringA" _
 (ByVal lpApplicationName As String, ByVal lpKeyName As Any, ByVal lpDefault As String, _
