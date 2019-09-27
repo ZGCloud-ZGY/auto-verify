@@ -6,6 +6,8 @@ Visual Basic 6.0
 <p>
 声明:<p>
 软件的所有Function来自于互联网无私奉献的大神，在此表示感谢。
+<p>来源于互联网大佬的功能类源码标示: 
+<p>getHTTPPage()  ReadIniFile()   WriteIniFile()   Sleep()  
 <p>
 功能:<p>
 √ 自动登录   √ 账号检测   √ 失败重登  √ 环境检测*<p>
