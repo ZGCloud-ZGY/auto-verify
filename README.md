@@ -14,13 +14,14 @@ Visual Basic 6.0
 *:当网络环境非校园网时，软件不会启动。[自动检测DNS，非校园网DNS软件不会运行。若修改过DNS，软件将无法正常运行！]
 <p>
 支持的系统:<p>
-Windows 7/10 [10系统启动软件速度较慢]
+Windows 7/10 [10系统启动软件速度较慢]（理论支持Windows全系列）
 <p>
 BUG反馈:<p>
 E-mail：305623673@qq.com QQ：305623673（微信同号）加好友请备注
 <p>
 下载地址:<p>
-https://github.com/ZGCloud-ZGY/auto-verify/releases
+源代码:https://github.com/ZGCloud-ZGY/auto-verify/releases<p>
+软件:https://github.com/ZGCloud-ZGY/auto-verify/releases/download/1.0.0.4/auto-verify-windows.zip
 <p>
 自启方法:<p>
 快捷键 Win + R<p>
