@@ -294,6 +294,7 @@ read
 End If
 End Sub
 Private Sub Form_Load()
+Sleep (3000)
 checknet
 End Sub
 Private Sub Label3_Click()
