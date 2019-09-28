@@ -278,7 +278,7 @@ If InStr(1, a, "error") = 0 Then
 b = Split(a, Chr(34) & "NID" & Chr(34) & ":" & Chr(34))(1)
 c = Split(b, Chr(34))(0)
 Label1.Caption = "欢迎您:" & c & "您已成功登录！"
-Sleep (3000)
+Sleep (1500)
 End
 Else
 MsgBox "认证系统传回错误信息，请检查账号或密码是否错误。"
