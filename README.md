@@ -20,8 +20,7 @@ BUG反馈:<p>
 E-mail：305623673@qq.com QQ：305623673（微信同号）加好友请备注
 <p>
 下载地址:<p>
-源代码:https://github.com/ZGCloud-ZGY/auto-verify/releases<p>
-软件:https://github.com/ZGCloud-ZGY/auto-verify/releases/download/1.0.0.4/auto-verify-windows.zip
+软件:https://github.com/ZGCloud-ZGY/auto-verify/releases
 <p>
 自启方法:<p>
 快捷键 Win + R<p>
